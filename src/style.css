@@ -1,10 +1,7 @@
 .form-field {
   display: block;
   margin-bottom: 10px;
-}
-
-.field::placeholder {
-  color: rgb(66, 66, 69);
+  padding-bottom: 0;
 }
 
 .fieldset1 {
@@ -12,10 +9,10 @@
 
 }
 
-.form-field:focus {
+/* .form-field:focus {
   color: green;
 }
 
 .field:invalid {
   color: red;
-}
+} */
